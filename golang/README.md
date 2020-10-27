@@ -1,0 +1,1 @@
+摘自  [YanxinTang](https://github.com/YanxinTang/clipboard-online)
